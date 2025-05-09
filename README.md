@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Steuerung eines Liftmoduls mit einem Arduino Pro Mini (ATmega328P @ 16 MHz), Ultraschallsensor (HC-SR04T) und BTS7960 H‑Brücke. Über zwei entprellte Fußpedale fährt der Lift automatisch bis zu definierten Endanschlägen und nutzt sanfte Soft-Start/Stop sowie langsame Zonen an den Enden.
+Steuerung eines Liftmoduls mit einem Arduino Pro Mini (ATmega328P @ 8 MHz), Ultraschallsensor (HC-SR04T) und BTS7960 H‑Brücke. Über zwei entprellte Fußpedale fährt der Lift automatisch bis zu definierten Endanschlägen und nutzt sanfte Soft-Start/Stop sowie langsame Zonen an den Enden.
 
 ## Features
 
